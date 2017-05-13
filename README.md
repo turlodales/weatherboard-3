@@ -2,12 +2,15 @@
 a working verson of weatherboard 2 for but ios 10.2 and up
 
 why am i putting is on github 
+
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved
 
 device support 64bit only
+
 iPhone 5S (10.3.2 beta 5) iPhone 6S+ (10.2), iPad Air 2 10.2 (at mo has a broken screen) so cant test at mo, iPad Pro 12.9 (10.2)
 
 planned device support 64bit only
+
 all iPhone's from the 5S and up.
 all iPad's from the Air and up.
 Apple TV 4 (if or then i can get mine jailbroken)
