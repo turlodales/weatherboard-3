@@ -1,17 +1,38 @@
-# weatherboard 3
-a working verson of weatherboard 2 for but ios 10.2 and up
+# weatherboard 2/3
+
+a working verson of weatherboard 3 for but ios 10.2 and up
 
 why am i putting is on github: 
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved
 
+Already Supports 
+iPhone 4s, iOS 9.3.5 weatherboard 2
+iPhone 5s iOS 9.3.3, weatherboard 2
+iPhone 6S+ 9.3.3 weatherboard 2
+iPad Air 2 9.3.3  weatherboard 2
+
+device support 32bit only: 
+iPhone 4s, iOS 9.3.5
+iphone 5C (unknow what ios verson it comes with untill it turns up)
+
 device support 64bit only:
 
-iPhone 5S (10.3.2 beta 5) iPhone 6S+ (10.2), iPad Air 2 10.2 (at mo has a broken screen) so cant test at mo, iPad Pro 12.9 (10.2)
+iPhone 5S (11.2.3 beta 5) 
+iPhone 6S+ (10.2), 
+iPhone 8+ (11.0)
+iPad Air 2 10.2 (at mo has a broken screen) so cant test at mo, 
+iPad Pro 12.9 (10.2)
 
 planned device support 64bit only:
 
-all iPhone's from the 5S and up.
+iPhone SE (unknow if working or not untill i test) (the verson that kill it)
+iPhone 6/+
+iPhone 6S/+ 10.2 (the verson that kill it)
+iPhone 7/+ 10.2 (the verson that kill it)
+iPhone 8/+ 11.0 (the verson that kill it)
+iPhone X 11.0 (the verson that kill it)
+
 all iPad's from the Air and up.
 Apple TV 4 (if or then i can get mine jailbroken)
 
