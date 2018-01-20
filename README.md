@@ -7,7 +7,7 @@ why am i putting is on github:
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved
 
 Already Supports 
-iPhone 4s, iOS 9.3.5 weatherboard 2
+iPhone 4s, iOS 9.3.5 weatherboard 2 
 iPhone 5s iOS 9.3.3, weatherboard 2
 iPhone 6S+ 9.3.3 weatherboard 2
 iPad Air 2 9.3.3  weatherboard 2
@@ -26,8 +26,8 @@ iPad Pro 12.9 (10.2)
 
 planned device support 64bit only:
 
-iPhone SE (unknow if working or not untill i test) (the verson that kill it)
-iPhone 6/+
+iPhone SE (unknow if working or not untill i test) (10.2 the verson that kill it to 10.3.3)
+iPhone 6/+ 10.2 (the verson that kill it)
 iPhone 6S/+ 10.2 (the verson that kill it)
 iPhone 7/+ 10.2 (the verson that kill it)
 iPhone 8/+ 11.0 (the verson that kill it)
@@ -54,4 +54,4 @@ Youtube for the vid's that have helped me do this i will list them all soon
 
 more to follow
 
-in case anyone is wondering i started using jail broken devices from the iPhone original then the 3GS then the 4S 5S 6S+ next upgrade is due this september so 7S+ or 8 if the 7S+ comes out i will be getting that as i do like the S models. i only have 2 iPads Air 2 and Pro 12.9. i have the Apple TV 3 and 4 sadly both not jailbroken yet and i have the Apple Watch 1st gen
+in case anyone is wondering i started using jail broken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ i do like the S models. i only have 2 iPads Air 2 and Pro 12.9. i have the Apple TV 3 and 4 sadly both not jailbroken yet and i have the Apple Watch 1st gen.
