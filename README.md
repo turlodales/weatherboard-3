@@ -14,7 +14,7 @@ iPad Air 2 9.3.3  weatherboard 2
 
 device support 32bit only: 
 iPhone 4s, iOS 9.3.5
-iphone 5C (unknow what ios verson it comes with untill it turns up)
+iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 
 device support 64bit only:
 
@@ -48,7 +48,7 @@ Allan Kerr the person that make this tweak in the first place
 
 myself to prove to myself that even someone like me with dislexic can do thing to help the jailbraking cumunity 
 
-FreeNAS OS for my Home Backup Server's
+FreeNAS OS for my Home Server's
 
 Youtube for the vid's that have helped me do this i will list them all soon
 
