@@ -69,8 +69,8 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 
 
 # My Devices 64Bit
-| Device | iOS | Supports |
-|---------|----------|----------|
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
 | iPhone 5S | iOS 9.3.3 | untested |
 | iPhone 5S | iOS 9.3.4 | untested |
 | iPhone 5S | iOS 9.3.5 | untested |
