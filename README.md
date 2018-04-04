@@ -1,37 +1,238 @@
-# weatherboard 2/3
+# weatherboard 3
 
-a working verson of weatherboard 3 for but ios 10.2 and up
+a working verson of weatherboard 3 for but ios 9.3.5 and up
 
 why am i putting is on github: 
 
 for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved
 
-Already Supports 
-iPhone 4s, iOS 9.3.5 weatherboard 2 
-iPhone 5s iOS 9.3.3, weatherboard 2
-iPhone 6S+ 9.3.3 weatherboard 2
-iPad Air 2 9.3.3  weatherboard 2
+
+ # Supported Devices 32Bit
+| Device | Supports |
+|---------|----------|
+| iPhone 4s | iOS 8.0 to 9.3.5 |
+
+
+# Supported Devices 64Bit
+| Device | Supports |
+|---------|----------|
+| iPhone 5S | iOS 9.3.3 |
+| iPhone 6/+ | iOS 9.3.3 |
+| iPhone 6S/+ | iOS 9.3.3 |
+| iPad Air 2 | iOS 9.3.3 |
+
+
+# Not Supported Devices Yet as i dont have
+| Device | Supports |
+|---------|----------|
+| iPhone 5 | Untested  |
+| iPhone SE | Untested  |
+| iPhone 6/+ | Untested  |
+| iPhone 7/+ | Untested |
+| iPhone 8 | Untested |
+| iPhone X | Untested  |
+| iPad Mini 4 | Untested  |
+| iPad Air | Untested  |
+| iPod Touch 6 | Untested |
+
+
+# Not Supported Devices Yet
+| Device | Supports |
+|---------|----------|
+| iPhone 5S | iOS 9.3.5 to 11.1.2 |
+| iPhone 5C | iOS 9.3.5 to 10.3.3 |
+| iPhone 6S/+ | iOS 9.3.5 to 11.1.2 |
+| iPhone 8+ | iOS 11.0 to 11.1.2 |
+| iPad Air 2 | iOS 9.3.5 to 11.1.2 |
+| iPad Air Pro 12.9 | iOS 10.2 to 11.1.2 |
+
+
+# My Devices 32Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 5C | iOS 9.3.3 | untested |
+| iPhone 5C | iOS 9.3.4 | untested |
+| iPhone 5C | iOS 9.3.5 | untested |
+| iPhone 5C | iOS 10.0.1 | untested |
+| iPhone 5C | iOS 10.0.2 | untested |
+| iPhone 5C | iOS 10.1 | untested |
+| iPhone 5C | iOS 10.1.1 | untested |
+| iPhone 5C | iOS 10.2 | untested |
+| iPhone 5C | iOS 10.2.1 | untested |
+| iPhone 5C | iOS 10.3 | untested |
+| iPhone 5C | iOS 10.3.1 | untested |
+| iPhone 5C | iOS 10.3.2 | untested |
+| iPhone 5C | iOS 10.3.3 | untested |
+
 =====================================================
-device support 32bit only: 
-iPhone 4s, iOS 9.3.5
 iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 ============================================================================================
-device support 64bit only:
 
-iPhone 5S (11.2.3 beta 5) 
-iPhone 6S+ (10.2), 
-iPhone 8+ (11.0)
-iPad Air 2 10.2 (at mo has a broken screen) so cant test at mo, 
-iPad Pro 12.9 (10.2)
+# My Devices 64Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 5S | iOS 9.3.3 | untested |
+| iPhone 5S | iOS 9.3.4 | untested |
+| iPhone 5S | iOS 9.3.5 | untested |
+| iPhone 5S | iOS 10.0.1 | untested |
+| iPhone 5S | iOS 10.0.2 | untested |
+| iPhone 5S | iOS 10.1 | untested |
+| iPhone 5S | iOS 10.1.1 | untested |
+| iPhone 5S | iOS 10.2 | untested |
+| iPhone 5S | iOS 10.2.1 | untested |
+| iPhone 5S | iOS 10.3 | untested |
+| iPhone 5S | iOS 10.3.1 | untested |
+| iPhone 5S | iOS 10.3.2 | untested |
+| iPhone 5S | iOS 10.3.3 | untested |
+| iPhone 5S | iOS 11.0 | untested |
+| iPhone 5S | iOS 11.0.1 | untested |
+| iPhone 5S | iOS 11.0.2 | untested |
+| iPhone 5S | iOS 11.0.3 | untested |
+| iPhone 5S | iOS 11.1 | untested |
+| iPhone 5S | iOS 11.1.1 | untested |
+| iPhone 5S | iOS 11.1.2 | untested |
+| iPhone 5S | iOS 11.2 | untested wating JB|
+| iPhone 5S | iOS 11.2.1 | untested |
+| iPhone 5S | iOS 11.2.2 | untested |
+| iPhone 5S | iOS 11.2.5 | untested |
+| iPhone 5S | iOS 11.2.6 | untested |
+| iPhone 5S | iOS 11.3 | untested |
+| iPhone 5S | iOS 11.4 B1 | untested |
+
+
+# My Devices 64Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 6S+ | iOS 9.3.3 | untested |
+| iPhone 6S+ | iOS 9.3.4 | untested |
+| iPhone 6S+ | iOS 9.3.5 | untested |
+| iPhone 6S+ | iOS 10.0.1 | untested |
+| iPhone 6S+ | iOS 10.0.2 | untested |
+| iPhone 6S+ | iOS 10.1 | untested |
+| iPhone 6S+ | iOS 10.1.1 | untested |
+| iPhone 6S+ | iOS 10.2 | tested not working |
+| iPhone 6S+ | iOS 10.2.1 | untested |
+| iPhone 6S+ | iOS 10.3 | untested |
+| iPhone 6S+ | iOS 10.3.1 | untested |
+| iPhone 6S+ | iOS 10.3.2 | untested |
+| iPhone 6S+ | iOS 10.3.3 | untested |
+| iPhone 6S+ | iOS 11.0 | untested |
+| iPhone 6S+ | iOS 11.0.1 | untested |
+| iPhone 6S+ | iOS 11.0.2 | untested |
+| iPhone 6S+ | iOS 11.0.3 | untested |
+| iPhone 6S+ | iOS 11.1 | untested |
+| iPhone 6S+ | iOS 11.1.1 | untested |
+| iPhone 6S+ | iOS 11.1.2 | untested |
+| iPhone 6S+ | iOS 11.2 | untested |
+| iPhone 6S+ | iOS 11.2.1 | untested |
+| iPhone 6S+ | iOS 11.2.2 | untested |
+| iPhone 6S+ | iOS 11.2.5 | untested |
+| iPhone 6S+ | iOS 11.2.6 | untested |
+| iPhone 6S+ | iOS 11.3 | untested |
+| iPhone 6S+ | iOS 11.4 B1 | untested |
+
+# My Devices 64Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 8+ | iOS 11.0 | tested not working |
+| iPhone 8+ | iOS 11.0.1 | untested |
+| iPhone 8+ | iOS 11.0.2 | untested |
+| iPhone 8+ | iOS 11.0.3 | untested |
+| iPhone 8+ | iOS 11.1 | untested |
+| iPhone 8+ | iOS 11.1.1 | untested |
+| iPhone 8+ | iOS 11.1.2 | untested |
+| iPhone 8+ | iOS 11.2 | untested |
+| iPhone 8+ | iOS 11.2.1 | untested |
+| iPhone 8+ | iOS 11.2.2 | untested |
+| iPhone 8+ | iOS 11.2.5 | untested |
+| iPhone 8+ | iOS 11.2.6 | untested |
+| iPhone 8+ | iOS 11.3 | untested |
+| iPhone 8+ | iOS 11.4 B1 | untested |
+
+
+# My Devices 64Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPad Air 2 | iOS 9.3.3 | untested |
+| iPad Air 2 | iOS 9.3.4 | untested |
+| iPad Air 2 | iOS 9.3.5 | untested |
+| iPhone 6S+ | iOS 10.0.1 | untested |
+| iPhone 6S+ | iOS 10.0.2 | untested |
+| iPhone 6S+ | iOS 10.1 | untested |
+| iPhone 6S+ | iOS 10.1.1 | untested |
+| iPhone 6S+ | iOS 10.2 | tested not working |
+| iPhone 6S+ | iOS 10.2.1 | untested |
+| iPhone 6S+ | iOS 10.3 | untested |
+| iPhone 6S+ | iOS 10.3.1 | untested |
+| iPhone 6S+ | iOS 10.3.2 | untested |
+| iPhone 6S+ | iOS 10.3.3 | untested |
+| iPhone 6S+ | iOS 11.0 | untested |
+| iPhone 6S+ | iOS 11.0.1 | untested |
+| iPhone 6S+ | iOS 11.0.2 | untested |
+| iPhone 6S+ | iOS 11.0.3 | untested |
+| iPhone 6S+ | iOS 11.1 | untested |
+| iPhone 6S+ | iOS 11.1.1 | untested |
+| iPhone 6S+ | iOS 11.1.2 | untested |
+| iPhone 6S+ | iOS 11.2 | untested |
+| iPhone 6S+ | iOS 11.2.1 | untested |
+| iPhone 6S+ | iOS 11.2.2 | untested |
+| iPhone 6S+ | iOS 11.2.5 | untested |
+| iPhone 6S+ | iOS 11.2.6 | untested |
+| iPhone 6S+ | iOS 11.3 | untested |
+| iPhone 6S+ | iOS 11.4 B1 | untested |
+
+
+# My Devices 64Bit
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
+| iPhone 6S+ | iOS 9.3.4 | untested |
+| iPhone 6S+ | iOS 9.3.5 | untested |
+| iPhone 6S+ | iOS 10.0.1 | untested |
+| iPhone 6S+ | iOS 10.0.2 | untested |
+| iPhone 6S+ | iOS 10.1 | untested |
+| iPhone 6S+ | iOS 10.1.1 | untested |
+| iPhone 6S+ | iOS 10.2 | tested not working |
+| iPhone 6S+ | iOS 10.2.1 | untested |
+| iPhone 6S+ | iOS 10.3 | untested |
+| iPhone 6S+ | iOS 10.3.1 | untested |
+| iPhone 6S+ | iOS 10.3.2 | untested |
+| iPhone 6S+ | iOS 10.3.3 | untested |
+| iPhone 6S+ | iOS 11.0 | untested |
+| iPhone 6S+ | iOS 11.0.1 | untested |
+| iPhone 6S+ | iOS 11.0.2 | untested |
+| iPhone 6S+ | iOS 11.0.3 | untested |
+| iPhone 6S+ | iOS 11.1 | untested |
+| iPhone 6S+ | iOS 11.1.1 | untested |
+| iPhone 6S+ | iOS 11.1.2 | untested |
+| iPhone 6S+ | iOS 11.2 | untested |
+| iPhone 6S+ | iOS 11.2.1 | untested |
+| iPhone 6S+ | iOS 11.2.2 | untested |
+| iPhone 6S+ | iOS 11.2.5 | untested |
+| iPhone 6S+ | iOS 11.2.6 | untested |
+| iPhone 6S+ | iOS 11.3 | untested |
+| iPhone 6S+ | iOS 11.4 B1 | untested |
+
 ============================================
-planned device support 64bit only:
+# Planned Supported Devices 
+| Device | Supports |
+|---------|----------|
+| iPad Air 2 | planned |
+| iPad Air Pro 12.9 | iOS 9.3.3 |
 
-iPhone SE (unknow if working or not untill i test) (10.2 the verson that kill it to 10.3.3)
-iPhone 6/+ 10.2 (the verson that kill it)
-iPhone 6S/+ 10.2 (the verson that kill it)
-iPhone 7/+ 10.2 (the verson that kill it)
-iPhone 8/+ 11.0 (the verson that kill it)
-iPhone X 11.0 (the verson that kill it)
+# Planned Supported Devices 
+| Device | iOS | Supports |
+|---------|----------|----------|
+| iPhone 5S | iOS 11.1 | untested |
+| iPhone SE | iOS 11.1.1 | untested |
+| iPhone 6/+ | iOS 11.1.2 | untested |
+| iPhone 6S/+ | iOS 11.2 | untested |
+| iPhone 7/+ | iOS 11.2.1 | untested |
+| iPhone 8/+ | iOS 11.2.2 | untested |
+| iPhone X | iOS 11.2.5 | untested |
+| iPad Air 2 | iOS 11.2.6 | untested |
+| iPad pro | iOS 11.3 | untested |
+| apple tv 4 | iOS 11.4 B1 | untested |
 
 all iPad's from the Air and up.
 Apple TV 4 10.2.2 (if or then i can get mine jailbroken) (using greeng0blin)and if i can get it to work and can make it compatable)
@@ -46,7 +247,7 @@ i would like to say a big thank you to the people that has helped me make this h
 
 Allan Kerr the person that make this tweak in the first place
 
-myself to prove to myself that even someone like me with dislexic can do thing to help the jailbraking cumunity 
+myself to prove that even someone like me with dislexic can do thing to help the jailbraking cumunity 
 
 FreeNAS OS for my Home Server's
 
