@@ -71,12 +71,12 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 # My Devices 64Bit
 | Device | iOS | Supports |   | Device | iOS | Supports |
 |---------|----------|----------|---------|----------|----------|----------|
-| iPhone 5S | iOS 9.3.3 | untested |
-| iPhone 5S | iOS 9.3.4 | untested |
-| iPhone 5S | iOS 9.3.5 | untested |
-| iPhone 5S | iOS 10.0.1 | untested |
-| iPhone 5S | iOS 10.0.2 | untested |
-| iPhone 5S | iOS 10.1 | untested |
+| iPhone 5S | iOS 9.3.3 | untested || iPhone 6S+ | iOS 9.3.3 | untested |
+| iPhone 5S | iOS 9.3.4 | untested || iPhone 6S+ | iOS 9.3.4 | untested |
+| iPhone 5S | iOS 9.3.5 | untested || iPhone 6S+ | iOS 9.3.5 | untested |
+| iPhone 5S | iOS 10.0.1 | untested || iPhone 6S+ | iOS 10.0.1 | untested |
+| iPhone 5S | iOS 10.0.2 | untested || iPhone 6S+ | iOS 10.0.2 | untested |
+| iPhone 5S | iOS 10.1 | untested || iPhone 6S+ | iOS 10.1 | untested |
 | iPhone 5S | iOS 10.1.1 | untested |
 | iPhone 5S | iOS 10.2 | untested |
 | iPhone 5S | iOS 10.2.1 | untested |
@@ -103,12 +103,12 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 # My Devices 64Bit
 | Device | iOS | Supports |
 |---------|----------|----------|
-| iPhone 6S+ | iOS 9.3.3 | untested |
-| iPhone 6S+ | iOS 9.3.4 | untested |
-| iPhone 6S+ | iOS 9.3.5 | untested |
-| iPhone 6S+ | iOS 10.0.1 | untested |
-| iPhone 6S+ | iOS 10.0.2 | untested |
-| iPhone 6S+ | iOS 10.1 | untested |
+
+
+
+
+
+
 | iPhone 6S+ | iOS 10.1.1 | untested |
 | iPhone 6S+ | iOS 10.2 | tested not working |
 | iPhone 6S+ | iOS 10.2.1 | untested |
