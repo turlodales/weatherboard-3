@@ -68,12 +68,17 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 
 
-# My iPhone Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |    | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|---------|----------|----------|----------|
-| iPhone 5S | iOS 9.3.3 | untested || iPhone 6S+ | iOS 9.3.3 | untested || 
+# My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
+| iPhone 5S | iOS 9.3.3 | untested || iPhone 6S+ | iOS 9.3.3 | untested |
 | iPhone 5S | iOS 9.3.4 | untested || iPhone 6S+ | iOS 9.3.4 | untested |
 | iPhone 5S | iOS 9.3.5 | untested || iPhone 6S+ | iOS 9.3.5 | untested |
+
+
+# My iPhone iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
 | iPhone 5S | iOS 10.0.1 | untested || iPhone 6S+ | iOS 10.0.1 | untested |
 | iPhone 5S | iOS 10.0.2 | untested || iPhone 6S+ | iOS 10.0.2 | untested |
 | iPhone 5S | iOS 10.1 | untested || iPhone 6S+ | iOS 10.1 | untested |
@@ -84,6 +89,25 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPhone 5S | iOS 10.3.1 | untested ||iPhone 6S+ | iOS 10.3.1 | untested |
 | iPhone 5S | iOS 10.3.2 | untested || iPhone 6S+ | iOS 10.3.2 | untested |
 | iPhone 5S | iOS 10.3.3 | untested || iPhone 6S+ | iOS 10.3.3 | untested |
+| iPhone 5S | iOS 11.0 | untested || iPhone 6S+ | iOS 11.0 | untested |
+| iPhone 5S | iOS 11.0.1 | untested || iPhone 6S+ | iOS 11.0.1 | untested |
+| iPhone 5S | iOS 11.0.2 | untested || iPhone 6S+ | iOS 11.0.2 | untested |
+| iPhone 5S | iOS 11.0.3 | untested || iPhone 6S+ | iOS 11.0.3 | untested |
+| iPhone 5S | iOS 11.1 | untested || iPhone 6S+ | iOS 11.1 | untested |
+| iPhone 5S | iOS 11.1.1 | untested || iPhone 6S+ | iOS 11.1.1 | untested |
+| iPhone 5S | iOS 11.1.2 | untested || iPhone 6S+ | iOS 11.1.2 | untested |
+| iPhone 5S | iOS 11.2 | untested wating JB|| iPhone 6S+ | iOS 11.2 | untested |
+| iPhone 5S | iOS 11.2.1 | untested || iPhone 6S+ | iOS 11.2.1 | untested |
+| iPhone 5S | iOS 11.2.2 | untested || iPhone 6S+ | iOS 11.2.2 | untested |
+| iPhone 5S | iOS 11.2.5 | untested || iPhone 6S+ | iOS 11.2.5 | untested |
+| iPhone 5S | iOS 11.2.6 | untested || iPhone 6S+ | iOS 11.2.6 | untested |
+| iPhone 5S | iOS 11.3 | untested || iPhone 6S+ | iOS 11.3 | untested |
+| iPhone 5S | iOS 11.4 B1 | untested || iPhone 6S+ | iOS 11.4 B1 | untested |
+
+
+# My iPhone iOS 11.0 to iOS 11.4 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |    | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|---------|----------|----------|----------|
 | iPhone 5S | iOS 11.0 | untested || iPhone 6S+ | iOS 11.0 | untested |iPhone 8+ | iOS 11.0 | tested not working |
 | iPhone 5S | iOS 11.0.1 | untested || iPhone 6S+ | iOS 11.0.1 | untested || iPhone 8+ | iOS 11.0.1 | untested |
 | iPhone 5S | iOS 11.0.2 | untested || iPhone 6S+ | iOS 11.0.2 | untested || iPhone 8+ | iOS 11.0.2 | untested |
@@ -100,12 +124,17 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPhone 5S | iOS 11.4 B1 | untested || iPhone 6S+ | iOS 11.4 B1 | untested || iPhone 8+ | iOS 11.4 B1 | untested |
 
 
-# My Devices 64Bit
+# My iPad's iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
 | Device | iOS | Supports |   | Device | iOS | Supports |
 |---------|----------|----------|---------|----------|----------|----------|
 | iPad Air 2 | iOS 9.3.3 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
 | iPad Air 2 | iOS 9.3.4 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | untested |
 | iPad Air 2 | iOS 9.3.5 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | untested |
+
+
+# My iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
 | iPad Air 2 | iOS 10.0.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.0.1 | untested |
 | iPad Air 2 | iOS 10.0.2 | untested || iPad Air Pro 12.9 1st gen | iOS 10.0.2 | untested |
 | iPad Air 2 | iOS 10.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.1 | untested |
@@ -116,6 +145,11 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPad Air 2 | iOS 10.3.1 | untested || iOS 10.3.1 | untested |st gen | iOS 10.3 | untested |
 | iPad Air 2 | iOS 10.3.2 | untested || iPad Air Pro 12.9 1st gen | iOS 10.3.2 | untested |
 | iPad Air 2 | iOS 10.3.3 | untested || iPad Air Pro 12.9 1st gen | iOS 10.3.3 | untested |
+
+
+# My iPad's iOS 11.0 to iOS 11.4 Devices 64Bit
+| Device | iOS | Supports |   | Device | iOS | Supports |
+|---------|----------|----------|---------|----------|----------|----------|
 | iPad Air 2 | iOS 11.0 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0 | untested |
 | iPad Air 2 | iOS 11.0.1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0.1 | untested |
 | iPad Air 2 | iOS 11.0.2 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0.2 | untested |
