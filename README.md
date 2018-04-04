@@ -108,7 +108,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 # My iPhone iOS 11.0 to iOS 11.4 Devices 64Bit
 | Device | iOS | Supports |   | Device | iOS | Supports |    | Device | iOS | Supports |
 |---------|----------|----------|---------|----------|----------|----------|---------|----------|----------|----------|
-| iPhone 5S | iOS 11.0 | untested || iPhone 6S+ | iOS 11.0 | untested |iPhone 8+ | iOS 11.0 | tested not working |
+| iPhone 5S | iOS 11.0 | untested || iPhone 6S+ | iOS 11.0 | untested ||iPhone 8+ | iOS 11.0 | tested not working |
 | iPhone 5S | iOS 11.0.1 | untested || iPhone 6S+ | iOS 11.0.1 | untested || iPhone 8+ | iOS 11.0.1 | untested |
 | iPhone 5S | iOS 11.0.2 | untested || iPhone 6S+ | iOS 11.0.2 | untested || iPhone 8+ | iOS 11.0.2 | untested |
 | iPhone 5S | iOS 11.0.3 | untested || iPhone 6S+ | iOS 11.0.3 | untested || iPhone 8+ | iOS 11.0.3 | untested |
