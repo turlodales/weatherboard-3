@@ -44,7 +44,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 6S/+ | iOS 9.3.5 to 11.1.2 |
 | iPhone 8+ | iOS 11.0 to 11.1.2 |
 | iPad Air 2 | iOS 9.3.5 to 11.1.2 |
-| iPad Air Pro 12.9 | iOS 10.2 to 11.1.2 |
+| iPad Air Pro 12.9 | iOS 9.3.5 to 11.1.2 |
 
 
 # My iPhone Devices 32Bit
