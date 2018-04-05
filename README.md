@@ -71,7 +71,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 # My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
 | Device | iOS | Supports |   | Device | iOS | Supports |
 |---------|----------|----------|---------|----------|----------|----------|
-| iPhone 5S | iOS 9.3.3 | untested || iPhone 6S+ | iOS 9.3.3 | untested |
+| iPhone 5S | iOS 9.3.3 | working || iPhone 6S+ | iOS 9.3.3 | working |
 | iPhone 5S | iOS 9.3.4 | untested || iPhone 6S+ | iOS 9.3.4 | untested |
 | iPhone 5S | iOS 9.3.5 | untested || iPhone 6S+ | iOS 9.3.5 | untested |
 
@@ -83,7 +83,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPhone 5S | iOS 10.0.2 | untested || iPhone 6S+ | iOS 10.0.2 | untested |
 | iPhone 5S | iOS 10.1 | untested || iPhone 6S+ | iOS 10.1 | untested |
 | iPhone 5S | iOS 10.1.1 | untested || iPhone 6S+ | iOS 10.1.1 | untested |
-| iPhone 5S | iOS 10.2 | untested || iPhone 6S+ | iOS 10.2 | tested not working |
+| iPhone 5S | iOS 10.2 | untested || iPhone 6S+ | iOS 10.2 | not working but trying to fix |
 | iPhone 5S | iOS 10.2.1 | untested || iPhone 6S+ | iOS 10.2.1 | untested |
 | iPhone 5S | iOS 10.3 | untested || iPhone 6S+ | iOS 10.3 | untested |
 | iPhone 5S | iOS 10.3.1 | untested ||iPhone 6S+ | iOS 10.3.1 | untested |
@@ -139,7 +139,7 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPad Air 2 | iOS 10.0.2 | untested || iPad Air Pro 12.9 1st gen | iOS 10.0.2 | untested |
 | iPad Air 2 | iOS 10.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.1 | untested |
 | iPad Air 2 | iOS 10.1.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.1.1 | untested |
-| iPad Air 2 | iOS 10.2 | tested not working || iPad Air Pro 12.9 1st gen | iOS 10.2 | untested |
+| iPad Air 2 | iOS 10.2 | tested not working but trying to fix || iPad Air Pro 12.9 1st gen | iOS 10.2 | tested not working but trying to fix |
 | iPad Air 2 | iOS 10.2.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.2.1 | untested |
 | iPad Air 2 | iOS 10.3 | untested || iPad Air Pro 12.9 1| iPad Air Pro 12.9 1st gen 
 | iPad Air 2 | iOS 10.3.1 | untested || iOS 10.3.1 | untested |st gen | iOS 10.3 | untested |
@@ -169,6 +169,14 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 # Planned Supported Devices 
 | Device | Supports |
 |---------|----------|
+| iphone 5C | planned |
+| iphone 5S | planned |
+| iphone 6/+ | planned |
+| iphone 6S/+ | planned |
+| iphone 7/+ | planned |
+| iphone SE | planned |
+| iPhone 8+ | planned |
+| iphone X | planned |
 | apple tv 4 | planned |
 
 
