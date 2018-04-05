@@ -10,7 +10,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
  # Supported Devices 32Bit
 | Device | Supports |
 |---------|----------|
-| iPhone 4s | iOS 8.0 to 9.3.5 |
+| iPhone 4s | 9.3.5 |
 
 
 # Supported Devices 64Bit
@@ -33,6 +33,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone X | Untested  |
 | iPad Mini 4 | Untested  |
 | iPad Air | Untested  |
+| iPod Touch 5 | Untested |
 | iPod Touch 6 | Untested |
 
 
@@ -63,7 +64,6 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPhone 5C | iOS 10.3.1 | untested |
 | iPhone 5C | iOS 10.3.2 | untested |
 | iPhone 5C | iOS 10.3.3 | untested |
-
 
 iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
 
