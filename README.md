@@ -85,27 +85,9 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPod Touch 6 | Untested/Unknown |
 
 
-# iPhone 5S Supported iOS 9.0 to iOS 10.3.3 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|
-
-
-
 # iPhone 5S Supported iOS 9.0 to iOS 12.0 
 | iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
 | iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
 | iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
