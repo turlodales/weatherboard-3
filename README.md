@@ -23,7 +23,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPod Touch 5 | Untested/Unknown |
 
 # iPhone 5 Supported iOS 9.0 to iOS 10.3.3 
-| device |iOS 9.0| iOS 9.0.1iOS |iOS 9.0.2Supports|iOS 9.1iOS |iOS 9.2 Supports| iOS 9.2.1 iOS |iOS 9.3Supports|iOS 9.3.1iOS |SupportsiOS 9.3.2| iOS 9.3.3iOS |SupportsiOS 9.3.4|iOSiOS 9.3.5  |Supports| iOS |Supports|iOS |Supports| iOS |Supports|iOS |Supports| iOS |Supports|
+| device |iOS 9.0| iOS 9.0.1 |iOS 9.0.2|iOS 9.1 |iOS 9.2 | iOS 9.2.1 |iOS 9.3|iOS 9.3.1 |iOS 9.3.2| iOS 9.3.3 |iOS 9.3.4|iOS 9.3.5  |Supports| iOS |Supports|iOS |Supports| iOS |Supports|iOS |Supports| iOS |Supports|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | iPhone 5 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
 |  | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
