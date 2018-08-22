@@ -158,8 +158,9 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
 | iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
 | iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 10.3.3 |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+|  | |working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 |  | |iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 |  | |iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 |  | |iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
