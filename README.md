@@ -24,7 +24,7 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
 | iOS |5|5C|
-|----------|----------|----------|----------|
+|----------|----------|----------|
 | iOS 10.0 | Untested/Unknown |Untested/Unknown |
 | iOS 10.0.1 | Untested/Unknown |Untested/Unknown |
 | iOS 10.0.2 | Untested/Unknown |Untested/Unknown |
