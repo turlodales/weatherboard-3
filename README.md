@@ -159,46 +159,40 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPad Air Pro 12.9 | Untested/Unknown |
 
 
-# My iPad's iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|
-| iPad Air 2 | iOS 9.3.3 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.3 | untested |
-| iPad Air 2 | iOS 9.3.4 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.4 | untested |
-| iPad Air 2 | iOS 9.3.5 | untested || iPad Air Pro 12.9 1st gen | iOS 9.3.5 | untested |
+# Supported Devices iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
+| iOS |iPad Air 2|iPad Air Pro 12.9 1st gen|
+|----------|----------|----------|
+| iOS 10.0.1 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.2 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.3 | Untested/Unknown |Untested/Unknown |
+| iOS 10.1 | Untested/Unknown | Working/Tested|
+| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |
+| iOS 10.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.2.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.3| Untested/Unknown |working/tested|
 
 
-# My iPad's iOS 10.0.1 to iOS 10.3.3 Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|
-| iPad Air 2 | iOS 10.0.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.0.1 | untested |
-| iPad Air 2 | iOS 10.0.2 | untested || iPad Air Pro 12.9 1st gen | iOS 10.0.2 | untested |
-| iPad Air 2 | iOS 10.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.1 | untested |
-| iPad Air 2 | iOS 10.1.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.1.1 | untested |
-| iPad Air 2 | iOS 10.2 | tested not working but trying to fix || iPad Air Pro 12.9 1st gen | iOS 10.2 | tested not working but trying to fix |
-| iPad Air 2 | iOS 10.2.1 | untested || iPad Air Pro 12.9 1st gen | iOS 10.2.1 | untested |
-| iPad Air 2 | iOS 10.3 | untested || iPad Air Pro 12.9 1| iPad Air Pro 12.9 1st gen 
-| iPad Air 2 | iOS 10.3.1 | untested || iOS 10.3.1 | untested |st gen | iOS 10.3 | untested |
-| iPad Air 2 | iOS 10.3.2 | untested || iPad Air Pro 12.9 1st gen | iOS 10.3.2 | untested |
-| iPad Air 2 | iOS 10.3.3 | untested || iPad Air Pro 12.9 1st gen | iOS 10.3.3 | untested |
-
-
-# My iPad Air 2 iOS 11.0 to iOS 11.4 Devices 64Bit
-| Device | iOS | Supports |   | Device | iOS | Supports |
-|---------|----------|----------|---------|----------|----------|----------|
-|  | iOS 11.0 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0 | untested |
-| iPad Air 2 | iOS 11.0.1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0.1 | untested |
-| iPad Air 2 | iOS 11.0.2 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0.2 | untested |
-| iPad Air 2 | iOS 11.0.3 | untested || iPad Air Pro 12.9 1st gen | iOS 11.0.3 | untested |
-| iPad Air 2 | iOS 11.1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.1 | untested |
-| iPad Air 2 | iOS 11.1.1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.1.1 | untested |
-| iPad Air 2 | iOS 11.1.2 | untested || iPad Air Pro 12.9 1st gen | iOS 11.1.2 | untested |
-| iPad Air 2 | iOS 11.2 | untested || iPad Air Pro 12.9 1st gen | iOS 11.2 | untested |
-| iPad Air 2 | iOS 11.2.1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.2.1 | untested |
-| iPad Air 2 | iOS 11.2.2 | untested || iPad Air Pro 12.9 1st gen | iOS 11.2.2 | untested |
-| iPad Air 2 | iOS 11.2.5 | untested || iPad Air Pro 12.9 1st gen | iOS 11.2.5 | untested |
-| iPad Air 2 | iOS 11.2.6 | untested || iPad Air Pro 12.9 1st gen | iOS 11.2.6 | untested |
-| iPad Air 2 | iOS 11.3 | untested || iPad Air Pro 12.9 1st gen | iOS 11.3 | untested |
-| iPad Air 2 | iOS 11.4 B1 | untested || iPad Air Pro 12.9 1st gen | iOS 11.4.b1 | untested |
+# Supported Devices iPad's iOS 11.0 to iOS 11.4.1 Devices 64Bit
+| iOS |iPad Air 2|iPad Air Pro 12.9 1st gen|
+|----------|----------|----------|
+| iOS 11.0| Untested/Unknown |Untested/Unknown |
+| iOS 11.0.1| Untested/Unknown |Untested/Unknown |
+| iOS 11.0.2| Untested/Unknown |Untested/Unknown |
+| iOS 11.0.3| Untested/Unknown | Working/Tested|
+| iOS 11.1| Untested/Unknown |Untested/Unknown |
+| iOS 11.1.1| Untested/Unknown |Untested/Unknown |
+| iOS 11.1.2| Untested/Unknown |Untested/Unknown |
+| iOS 11.2| Untested/Unknown |Untested/Unknown |
+| iOS 11.2.1| Untested/Unknown |Untested/Unknown |
+| iOS 11.2.2| Untested/Unknown |Untested/Unknown |
+| iOS 11.2.5| Untested/Unknown |working/tested|
+| iOS 11.2.6| Untested/Unknown |working/tested|
+| iOS 11.3| Untested/Unknown |working/tested|
+| iOS 11.4| Untested/Unknown |working/tested|
+| iOS 11.4.1| Untested/Unknown |working/tested|
 
 
 # Planned Supported Devices 
