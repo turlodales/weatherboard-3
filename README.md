@@ -1,6 +1,6 @@
 # WeatherBoard 3 
 
-a working verson of weatherboard 3 for but ios 9.3.5 and up
+a working verson of weatherboard 3 for but ios 10.0 and up
 
 why am i putting is on github: 
 
@@ -22,59 +22,24 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air | Untested/Unknown  |
 | iPod Touch 5 | Untested/Unknown |
 
-# iPhone 5 Supported iOS 9.0 to iOS 10.3.3 
-| device |iOS 9.0| iOS 9.0.1 |iOS 9.0.2|iOS 9.1 |iOS 9.2 | iOS 9.2.1 |iOS 9.3|iOS 9.3.1 |iOS 9.3.2| iOS 9.3.3 |iOS 9.3.4|iOS 9.3.5  |Supports| iOS |Supports|iOS |Supports| iOS |Supports|iOS |Supports| iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iPhone 5 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |
-| | working/tested |iOS 10.1 | Untested/Unknown |
-| | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.2 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.3| Untested/Unknown |
-|  | working/tested |iOS 10.3.1 | Untested/Unknown |
-|  | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
-| | working/tested|iOS 10.3.3 | working/tested|
-
-
-# iPhone 5 Supported iOS 9.0 to iOS 10.3.3 
-| iOS |Supports| iOS |Supports|
+# Supported Devices iOS 10.0 to iOS 10.3.3
+| iOS |5|5C|
 |----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|
-
+| iOS 10.0 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.1 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.2 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.3 | Untested/Unknown |Untested/Unknown |
+| iOS 10.1 | Untested/Unknown | Working/Tested|
+| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |
+| iOS 10.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.2.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.3| Untested/Unknown |working/tested|
 
 
 iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the signning windows have closed  wiating for apple server to have there misshaps and sign ios versons to save them so i cant down grade to test
-
-
-# iPhone 5C Supported iOS 9.0 to iOS 10.3.3 
-| iOS |Supports| iOS |Supports|
-|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | Untested/Unknown|
 
 
 # Devices 64Bit
@@ -100,126 +65,70 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPod Touch 6 | Untested/Unknown |
 
 
-# iPhone 5S Supported iOS 9.0 to iOS 12.0 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+# Supported Devices iOS 10.0 to iOS 10.3.3
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 7.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.2	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.3	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.4	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.0.5	| N/A |N/A |N/A |
+| iOS 7.0.6	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+
+# Supported Devices iOS 10.0 to iOS 10.3.3
+| iOS |5|5C|
+|----------|----------|----------|
+| iOS 10.0 | Untested/Unknown |Untested/Unknown |
+| iOS 10.0.1 |Untested/Unknown |Untested/Unknown |
+| iOS 10.0.2 |Untested/Unknown |Untested/Unknown |
+| iOS 10.0.3 |Untested/Unknown |Untested/Unknown |
+| iOS 10.1 | Untested/Unknown | Untested/Unknown |
+| iOS 10.1.1 | Untested/Unknown |Untested/Unknown |
+| iOS 10.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.2.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.1| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.2| Untested/Unknown |Untested/Unknown |
+| iOS 10.3.3| Untested/Unknown |working/tested|
+
+# Supported Devices iOS 11.0 to iOS 11.4.1 
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 11.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.0.1	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.0.2 | Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.0.3 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.1.1| N/A |N/A |N/A |
+| iOS 11.1.2 	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.2  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.2.1	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.2.2  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.2.5  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.3  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.3.1  | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 11.2.4 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 11.2.4.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 
 
-# iPhone 6/+ Supported iOS 9.0 to iOS 12.0 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 
- 
-# iPhone SE Supported iOS 9.0 to iOS 12.0 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-
-
-# iPhone 7/+ Supported iOS 10.0 to iOS 12.0 
-| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 10.3.3 |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-|  | |working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-|  | |iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-|  | |iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-|  | |iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-
-
-# iPhone 8/+ iOS 11.0 to iOS 12.0 
-| iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|
-| iOS 11.0	| Not Working |iOS 12.0 | Untested/Unknown |
-| iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-
-
-# iPhone 5S Supported iOS 9.0 to iOS 12.0 
-| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
-| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
-| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+# Supported Devices iOS 12.0 to iOS 12.0 
+| iOS |5S|6/+|6S/+|SE|7/+|8/+|X|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0	| N/A | N/A |N/A |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0	| Untested/Unknown | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 12.0 | N/A |N/A |N/A |
+| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0	| Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+| iOS 12.0 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 
