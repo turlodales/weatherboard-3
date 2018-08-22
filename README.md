@@ -22,6 +22,21 @@ for one resaon only extra backup i have the project on my mac mini, my own freen
 | iPad Air | Untested/Unknown  |
 | iPod Touch 5 | Untested/Unknown |
 
+# iPhone 5 Supported iOS 9.0 to iOS 10.3.3 
+| device |iOS 9.0| iOS 9.0.1iOS |iOS 9.0.2Supports|iOS 9.1iOS |iOS 9.2 Supports| iOS 9.2.1 iOS |iOS 9.3Supports|iOS 9.3.1iOS |SupportsiOS 9.3.2| iOS 9.3.3iOS |SupportsiOS 9.3.4|iOSiOS 9.3.5  |Supports| iOS |Supports|iOS |Supports| iOS |Supports|iOS |Supports| iOS |Supports|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iPhone 5 | Untested/Unknown |iOS 10.0 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |
+| | working/tested |iOS 10.1 | Untested/Unknown |
+| | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.2 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.3| Untested/Unknown |
+|  | working/tested |iOS 10.3.1 | Untested/Unknown |
+|  | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |
+| | working/tested|iOS 10.3.3 | working/tested|
 
 
 # iPhone 5 Supported iOS 9.0 to iOS 10.3.3 
@@ -185,6 +200,27 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 | iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
 | iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+
+
+# iPhone 5S Supported iOS 9.0 to iOS 12.0 
+| iOS |Supports| iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|iOS |Supports|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| iOS 9.0 | Untested/Unknown |iOS 10.0 | Untested/Unknown |iOS 11.0	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.0.1 | Untested/Unknown |iOS 10.0.1 | Untested/Unknown |iOS 11.0.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.0.2 | Untested/Unknown |iOS 10.0.2 | Untested/Unknown |iOS 11.0.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.1 | Untested/Unknown |iOS 10.0.3 | Untested/Unknown |iOS 11.0.3	 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.2 | working/tested |iOS 10.1 | Untested/Unknown |iOS 11.1	| Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.2.1 | Untested/Unknown |iOS 10.1.1 | Untested/Unknown |iOS 11.1.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.3 | Untested/Unknown |iOS 10.2 | Untested/Unknown |iOS 11.1.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.3.1 | Untested/Unknown |iOS 10.2.1 | Untested/Unknown |iOS 11.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.3.2 | Untested/Unknown |iOS 10.3| Untested/Unknown |iOS 11.2.1 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.3.3 | working/tested |iOS 10.3.1 | Untested/Unknown |iOS 11.2.2 | Untested/Unknown |iOS 12.0 | Untested/Unknown |
+| iOS 9.3.4 | Untested/Unknown |iOS 10.3.2 | Untested/Unknown |iOS 11.2.5 | Untested/Unknown |iOS 12.0 | Untested/Unknown |iOS 11.2.6 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.3.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+| iOS 9.3.5 | working/tested|iOS 10.3.3 | working/tested|iOS 11.4.1 | Untested/Unknown|iOS 12.0 | Untested/Unknown |
+
 
 
 # My iPhones iOS 9.3.3 to iOS 9.3.5 Devices 64Bit
