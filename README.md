@@ -61,6 +61,9 @@ iphone 5C (10.3.3) i dont have any shsh2 blobs saved as got off ebay after the s
 | iPhone 7/+ | Untested/Unknown |
 | iPhone 8 | Untested/Unknown |
 | iPhone X | Untested/Unknown  |
+| iPhone XR | Untested/Unknown  |
+| iPhone XS | Untested/Unknown  |
+| iPhone XS Max | Untested/Unknown  |
 | iPad Mini 4 | Untested/Unknown  |
 | iPod Touch 6 | Untested/Unknown |
 
